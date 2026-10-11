@@ -1,104 +1,63 @@
-<!-- =====================================================
-     LARAIB ZAHOOR | GITHUB PROFILE README
-     Theme: Midnight Blue • Cyan • Professional
-====================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:164E63,100:06B6D4&text=Laraib%20Zahoor&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20STUDENT%20%7C%20ASPIRING%20SOFTWARE%20DEVELOPER&descSize=13&descAlignY=59&animation=fadeIn" width="100%" alt="Laraib Zahoor profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,100:164E63&height=210&section=header&text=Laraib%20Zahoor&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20IST%20Islamabad&descSize=16&descAlignY=60&descColor=D1E5E8&animation=fadeIn" alt="Laraib Zahoor"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Laraib+Zahoor+%F0%9F%91%8B;BS+Computer+Science+Student+at+IST;C%2B%2B+%7C+Python+%7C+Assembly;HTML+%7C+CSS+%7C+JavaScript;Learning.+Building.+Growing.+%F0%9F%9A%80" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=20&duration=3000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=600&lines=Learning+by+building+real+projects.;Exploring+AI+and+software+development.;Writing+code.+Solving+problems.+Growing." alt="Animated introduction"/>
 
 <br/><br/>
 
-<a href="mailto:laraibzahoor00@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/laraib-zahoor-a2b87640a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-<img src="https://img.shields.io/badge/GitHub-My_Repositories-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="mailto:laraibzahoor00@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/laraib-zahoor-a2b87640a/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-245B78?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## About Me
 
-Hi! I'm **Laraib Zahoor**, a Computer Science student at the **Institute of Space Technology (IST), Islamabad, Pakistan**.
+Hi, I'm **Laraib Zahoor**, a Computer Science student at the **Institute of Space Technology (IST), Islamabad**.
 
-I'm passionate about programming, software development, Artificial Intelligence, and web technologies. I enjoy exploring new concepts, solving programming problems, and turning what I learn into practical projects.
+I'm interested in programming, software development, artificial intelligence, and web technologies. I enjoy learning new concepts, solving problems, and applying my knowledge through practical projects.
 
-My goal is to develop strong technical foundations, build meaningful applications, and continuously grow as a developer.
+I'm currently focused on strengthening my programming fundamentals and developing the skills needed to build useful, well-structured applications.
 
-- 🎓 Pursuing **BS Computer Science (2024–2028)** at IST, Islamabad.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 💻 Strengthening my programming skills in Python and C++.
-- 🧩 Learning Object-Oriented Programming and problem-solving techniques.
-- 🌐 Building websites using HTML, CSS, and JavaScript.
-- 🎨 Exploring Graphic Designing and UI/UX.
-- 🌱 Always learning, experimenting, and improving.
-- 🤝 Open to internships, collaborations, and learning opportunities.
+- 🎓 **Education:** BS Computer Science, 2024–2028
+- 💻 **Programming:** Python, C++, and Assembly
+- 🌐 **Web Development:** HTML, CSS, and JavaScript
+- 🤖 **Interests:** Artificial Intelligence and Machine Learning
+- 🧩 **Learning:** OOP, algorithms, and problem-solving
+- 🎨 **Creative Interests:** Graphic Design and UI/UX
+- 🤝 **Opportunities:** Internships, collaborations, and learning
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
+<div align="center">
 
-<div align="left">
+### Programming
 
 <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Python and C++"/>
 
-<img src="https://img.shields.io/badge/Assembly-Programming%20Language-64748B?style=for-the-badge" alt="Assembly"/>
+<img src="https://img.shields.io/badge/Assembly-64748B?style=flat-square" alt="Assembly"/>
 
-</div>
+### Web Development
 
-### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript"/>
 
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, and JavaScript"/>
-
-</div>
-
-### 🔧 Tools & Platforms
-
-<div align="left">
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,ps&theme=dark" alt="VS Code, Git, GitHub, Anaconda and Photoshop"/>
 
-<img src="https://img.shields.io/badge/Spyder-Python%20IDE-8A1C1C?style=for-the-badge" alt="Spyder"/>
+<img src="https://img.shields.io/badge/Spyder-Python%20IDE-8A3535?style=flat-square" alt="Spyder"/>
 
 </div>
 
-### 🧠 Areas of Interest
-
-<p>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-0E7490?style=flat-square" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Machine_Learning-155E75?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Object--Oriented_Programming-1D4ED8?style=flat-square" alt="OOP"/>
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-4338CA?style=flat-square" alt="DSA"/>
-<img src="https://img.shields.io/badge/Web_Development-0891B2?style=flat-square" alt="Web Development"/>
-<img src="https://img.shields.io/badge/UI%2FUX_Design-7C3AED?style=flat-square" alt="UI UX"/>
-</p>
-
 ---
 
-## 🎓 Education
-
-<table>
-<tr>
-<td width="80" align="center">🎓</td>
-<td>
+## Education
 
 **Bachelor of Science in Computer Science**
 
@@ -106,145 +65,119 @@ Institute of Space Technology (IST), Islamabad, Pakistan
 
 **2024 – 2028**
 
+Building a foundation in programming, computational thinking, software development, and computer science concepts.
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Banking System
+
+**C++ · OOP**
+
+A banking application developed to practise object-oriented programming and implement basic banking operations.
+
+**Key concepts**
+- Classes and objects
+- Functions and program structure
+- Conditional logic
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Login & Registration
+
+**C++ · Fundamentals**
+
+A simple authentication project focused on registration, login logic, and structured programming.
+
+**Key concepts**
+- Input validation
+- Conditional statements
+- Basic data handling
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Sudoku Solver
+
+**C++ · Algorithms**
+
+A program designed to solve Sudoku puzzles through systematic problem-solving and algorithmic logic.
+
+**Key concepts**
+- Algorithm design
+- Logical constraints
+- Backtracking concepts
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 CGPA Calculator
+
+**C++ · Fundamentals**
+
+A calculator that uses course grades and credit hours to calculate GPA or CGPA.
+
+**Key concepts**
+- Arithmetic operations
+- Input handling
+- Calculation logic
+
 </td>
 </tr>
 </table>
 
-Currently building a strong foundation in programming, computational thinking, software development, and emerging technologies.
+---
+
+## What I'm Working Towards
+
+- Strengthening my C++ and Python programming skills.
+- Learning data structures, algorithms, and OOP in greater depth.
+- Building responsive websites and practical software projects.
+- Exploring AI and machine learning fundamentals.
+- Improving my design skills and understanding of UI/UX.
+- Gaining hands-on experience through internships and collaboration.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏦 01. Banking System
-
-**Tech Stack:** C++ · Object-Oriented Programming
-
-A console-based banking application developed to practice object-oriented programming, program structure, and basic banking operations.
-
-**Key learning areas**
-- Classes and objects
-- Encapsulation and OOP concepts
-- Conditional logic and functions
-- Organizing program functionality
-
-### 🔐 02. Login & Registration System
-
-**Tech Stack:** C++ · Programming Fundamentals
-
-An authentication project that implements basic user registration and login functionality while strengthening programming logic and data handling.
-
-**Key learning areas**
-- User input and validation
-- Conditional statements
-- Functions and program flow
-- Basic authentication logic
-
-### 🧩 03. Sudoku Solver
-
-**Tech Stack:** C++ · Algorithms · Problem Solving
-
-An algorithm-based application designed to solve Sudoku puzzles through logical exploration and systematic problem-solving techniques.
-
-**Key learning areas**
-- Algorithm design
-- Logical constraints
-- Backtracking concepts
-- Problem decomposition
-
-### 📊 04. CGPA Calculator
-
-**Tech Stack:** C++ · Programming Fundamentals
-
-A practical calculator that computes GPA/CGPA from course grades and credit hours, applying mathematical logic and programming fundamentals.
-
-**Key learning areas**
-- Arithmetic operations
-- Input handling
-- Grade and credit-hour calculations
-- Structured programming
-
-> Project descriptions reflect the intended functionality of these projects. Add repository links below when the projects are uploaded to GitHub.
-
----
-
-## 💡 What I'm Currently Working On
-
-<img align="right" width="130" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
-
-- 📘 Improving my C++ and Python programming skills.
-- 🧠 Practicing algorithms and problem-solving.
-- 🌐 Developing my web development skills.
-- 🤖 Exploring AI and Machine Learning fundamentals.
-- 🎨 Learning more about visual design and user experience.
-- 🚀 Turning concepts into practical programming projects.
-
-<br clear="right"/>
-
----
-
-## 🎯 Career Goals
-
-- Build a solid foundation in Artificial Intelligence and Machine Learning.
-- Strengthen C++, Object-Oriented Programming, and Data Structures & Algorithms.
-- Develop useful, reliable, and maintainable software applications.
-- Create modern and responsive websites.
-- Improve technical problem-solving and analytical thinking.
-- Expand my knowledge of Graphic Designing and UI/UX.
-- Contribute to open-source projects and collaborate with developers.
-- Gain practical experience through internships and real-world projects.
-- Continue learning and adapting to emerging technologies.
-
----
-
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=101828&title_color=5EEAD4&text_color=E2E8F0&icon_color=5EEAD4" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=101828&title_color=5EEAD4&text_color=E2E8F0" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&hide_border=true&background=101828&ring=5EEAD4&fire=F0B67F&currStreakLabel=5EEAD4&sideLabels=C0CDD9&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
+
+I'm always happy to connect with fellow students, developers, and people who enjoy learning and building with technology.
+
+<p>
+<a href="mailto:laraibzahoor00@gmail.com"><img src="https://img.shields.io/badge/Email-laraibzahoor00%40gmail.com-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/laraib-zahoor-a2b87640a/"><img src="https://img.shields.io/badge/LinkedIn-Laraib%20Zahoor-245B78?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 <div align="center">
 
-I'm always happy to connect with fellow students, developers, and technology enthusiasts.
-
-<a href="mailto:laraibzahoor00@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-laraibzahoor00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=17&pause=1600&color=5EEAD4&center=true&vCenter=true&width=480&lines=Stay+curious.+Keep+building.;Small+steps+lead+to+great+things." alt="Closing animation"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/laraib-zahoor-a2b87640a/">
-<img src="https://img.shields.io/badge/LinkedIn-Laraib_Zahoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
-</a>
+<sub>Thank you for visiting my profile.</sub>
 
-<br/><br/>
-
-**💼 Open to internships · 🤝 Collaboration · 🌱 Learning opportunities**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Learn+%E2%80%A2+Build+%E2%80%A2+Create+%E2%80%A2+Grow;Every+line+of+code+is+progress.+%F0%9F%9A%80" alt="Animated closing message"/>
-
-<br/><br/>
-
-⭐ If you find my projects interesting, feel free to explore and connect!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:0F172A&height=120&section=footer" width="100%" alt="Animated footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,100:101828&height=100&section=footer" alt="Footer banner"/>
 
 </div>
